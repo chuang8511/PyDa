@@ -1,3 +1,17 @@
+# Learning
+## About python development
+1. Think about what functions we need.
+    e.g. Voice Assitant requires
+        1. Ask question
+        2. Answer question
+        3. Voice out
+2. Search if there are useful API in Python libraries.
+    e.g. 
+        1. Ask question -> GUI Library
+        2. Answer question -> Wiki API or wolframalpha API
+        3. Voice out -> pyttsx3
+3. Read the doc and think about how to use the library.
+
 # Libraries I used in voice assistant
 
 ## wolframalpha API
